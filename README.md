@@ -13,6 +13,7 @@ Open **Terminal** and run:
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+<img width="474" height="227" alt="image" src="https://github.com/user-attachments/assets/508a20a2-e32a-4385-9ced-f8dec0741bcf" />
 
 After installation, follow any Homebrew instructions shown in Terminal to add `brew` to your PATH.
 
