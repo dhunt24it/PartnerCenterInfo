@@ -24,7 +24,9 @@ brew --version
 ```
 
 ## 2. Install PowerShell 7
-<img width="2048" height="1280" alt="image" src="https://github.com/user-attachments/assets/d772e798-f351-4f47-8c26-18f3964b8dff" />
+
+<img width="1254" height="1108" alt="image" src="https://github.com/user-attachments/assets/47e1c7fe-f6c3-4e34-be17-ecae8421158f" />
+
 
 ```bash
 brew install --cask powershell
