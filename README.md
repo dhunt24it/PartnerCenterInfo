@@ -95,10 +95,8 @@ This only applies to the current PowerShell session.
 ```powershell
 cd ~/Downloads
 
-./Export-PartnerCenter-DelegatedUsersLicenses-v2.ps1 -UseDeviceAuthentication
+./Export-PartnerCenter-DelegatedUsersLicenses-v2.ps1
 ```
-
-You will be given a device login code and a Microsoft login URL.
 
 Sign in with your Partner Center account.
 
@@ -113,6 +111,7 @@ PartnerCenter-Users.csv
 PartnerCenter-UserLicenses.csv
 PartnerCenter-Errors.csv
 ```
+Pipe these to Claude! :) 
 
 ## Troubleshooting
 
