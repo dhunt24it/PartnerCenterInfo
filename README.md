@@ -9,11 +9,11 @@ This guide installs PowerShell 7 and the required PowerShell modules on macOS so
 ## 1. Install Homebrew
 
 Open **Terminal** and run:
+<img width="757" height="211" alt="image" src="https://github.com/user-attachments/assets/c84b834c-1873-4cf2-aae8-84bc77cf8ebb" />
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-<img width="474" height="227" alt="image" src="https://github.com/user-attachments/assets/508a20a2-e32a-4385-9ced-f8dec0741bcf" />
 
 After installation, follow any Homebrew instructions shown in Terminal to add `brew` to your PATH.
 
